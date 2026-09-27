@@ -1,6 +1,6 @@
 > **Final Project — Hacktiv8 Indonesia | AI & LLM Training**
 
-Programming AI Assistant adalah chatbot berbasis **Python** dan **Google Gemini API** yang dirancang khusus untuk membantu menjawab pertanyaan seputar **Programming, IT, Software Engineering, dan Computer Science**.
+AI Chatbot ini adalah chatbot berbasis **Python** dan **Google Gemini API** yang dirancang khusus untuk membantu menjawab pertanyaan seputar **Programming, IT, Software Engineering, dan Computer Science**.
 
 Project ini dibuat sebagai bagian dari **Final Project** yang diberikan oleh tim **Hacktiv8 Indonesia** dalam pelatihan **AI dan LLM**, yang berlangsung pada **21–25 September 2026**.
 
