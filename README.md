@@ -1,7 +1,3 @@
-Tentu. Saya buatkan README yang terasa seperti repository GitHub sungguhan: ada overview, fitur, struktur proyek, instalasi, cara penggunaan, penjelasan kode, dan catatan API/billing.
-
-# 🤖 Programming AI Assistant
-
 > **Final Project — Hacktiv8 Indonesia | AI & LLM Training**
 
 Programming AI Assistant adalah chatbot berbasis **Python** dan **Google Gemini API** yang dirancang khusus untuk membantu menjawab pertanyaan seputar **Programming, IT, Software Engineering, dan Computer Science**.
